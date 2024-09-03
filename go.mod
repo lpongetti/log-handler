@@ -1,4 +1,4 @@
-module log-handler
+module github.com/lpongetti/loghandler
 
 go 1.23.0
 
